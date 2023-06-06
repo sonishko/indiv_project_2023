@@ -6,11 +6,9 @@
 
 Статьи: 
 [Nuclear ErbB4 signaling through H3K9me3 is antagonized by EGFR-activated c-Src](https://pubmed.ncbi.nlm.nih.gov/23230144/)
-
 В этой статье было показано, что уровень H3K9me3 в клетках увеличивался  при стимуляции рецепторов ErbB4 с помощью NRG-1 ( за счет внутриклеточного домена).
 
 [Role for tyrosine phosphorylation of SUV39H1 histone methyltransferase in enhanced trimethylation of histone H3K9 via neuregulin-1/ErbB4 nuclear signaling](https://pubmed.ncbi.nlm.nih.gov/30833073/)
-
 В этой статье было показано, что гистоновая метилтрансфераза H3K9 SUV39H1 связывается с NRG-1/ErbB4, что приводит к возникновению H3K9me3.
 
 ## Выравнивание гистонов:
