@@ -22,3 +22,13 @@
 ## Таблица e-value и -log(e-value)
 <img width="916" alt="Снимок экрана 2023-06-06 в 20 55 01" src="https://github.com/sonishko/indiv_project_2023/assets/99287058/51b7a439-72ac-469a-b2f9-40d47155b646">
 
+## Тепловая карта
+<img width="973" alt="Снимок экрана 2023-06-06 в 21 01 37" src="https://github.com/sonishko/indiv_project_2023/assets/99287058/0b5285ef-a7bd-42cd-8668-bbef8464938e">
+
+Полученная тепловая карта говорит о том, что белок ERBB4 появился впервые у дрозофилы, но более четко он детектируется у позвоночных организмов. Таким образом, этот белок является достаточно эфолюционно молодым.
+
+## Код и ресурсы.
+
+1. Выравнивание гистонов проводила в приложении MegaX с помощью алгоритма MUSCLE
+2. Выравнивания последовательностей на сервере: blastp -query protein.fasta -db /mnt/storage/project_2023/proteomes/proteome.faa -out proteome.blast -outfmt 7
+3. Тепловую карту строила с помощью [python](https://colab.research.google.com/drive/1TPSTTm8t5eP79WOl21RbNzdvcX5CMt5f?usp=sharing)
